@@ -47,7 +47,6 @@ NO variables is stored in env file, so that it can be easily accessible.
 ## Endpoints
 
 List the available API endpoints .
-http://localhost:3000/?text=LAQU
 
 - `GET http://localhost:3000/?text=some-textLAQU`: To get result/documents.
   in the place some-text put your own text that want to search
