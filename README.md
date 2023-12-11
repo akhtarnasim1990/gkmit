@@ -48,9 +48,9 @@ NO variables is stored in env file, so that it can be easily accessible.
 
 List the available API endpoints .
 
-- `GET http://localhost:3000/?text=some-textLAQU`: To get result/documents.
-  in the place some-text put your own text that want to search
-  Example: http://localhost:3000/?text=LAQU
+- `GET http://localhost:3000/?text=some-text`: To get result/documents.
+  -In the place some-text put your own text that want to search
+  -Example: http://localhost:3000/?text=LAQU
   get all the result with text "LAQU"
 
 ## Technologies Used
